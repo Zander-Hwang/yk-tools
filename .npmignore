@@ -1,0 +1,47 @@
+# git变更
+.git/
+
+# 安装后会生成
+node_modules/
+
+# Mac电脑的元数据
+.DS_Store
+
+# npm日志
+npm-*.log
+
+# yarn日志
+yarn-*.log
+
+# 测试报告
+coverage/
+
+# 测试用例
+test/
+
+# vscode配置
+.vscode/
+
+# npm配置
+.npmrc
+
+# .npmignore自身
+.npmignore
+
+# lock文件
+package-lock.json
+
+# lock文件
+yarn.lock
+
+# commitlint配置
+commitlint.config.json
+
+# release-it配置
+.release-it.json
+
+# prettier配置
+.prettierrc
+
+# eslint配置
+.eslintrc
